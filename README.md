@@ -1,10 +1,7 @@
-# Astro Starter Kit: Basics
-<img width="1200" alt="Screenshot 2024-01-28 at 3 10 54 AM" src="https://github.com/sudo-self/astro-uptime/assets/119916323/0e43ebbd-d65b-4da1-ab5b-b7825f030570">
-
+# Astro
 ```sh
 npm create astro@latest -- --template basics
 ```
-
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
