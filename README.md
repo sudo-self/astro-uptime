@@ -1,4 +1,9 @@
 # Astro
+<img width="1200" alt="Screenshot 2024-01-28 at 3 10 54 AM" src="https://github.com/sudo-self/astro-uptime/assets/119916323/576381b9-ccef-46c8-a2cf-bd6a571a1572">
+
+<img width="1162" alt="Screenshot 2024-01-28 at 3 15 15 AM" src="https://github.com/sudo-self/astro-uptime/assets/119916323/d8a3eab7-9168-4975-b883-7c1a0d7af525">
+
+
 ```sh
 npm create astro@latest -- --template basics
 ```
