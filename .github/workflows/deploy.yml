@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Deno
         uses: denoland/setup-deno@v1
@@ -24,7 +24,7 @@ jobs:
           deno-version: v1.x
 
       - name: Install Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: lts/*
 
@@ -37,6 +37,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "magic-mp3"
+          project: "sudo-self-astro-uptim-52"
           entrypoint: "server/entry.mjs"
           root: "dist"
